@@ -33,7 +33,7 @@ Contributers:none
 
 
 ### 2. Lifestyle
-link  
+link: https://andrewkahora.github.io/Lifestyle/  
 ---- 
 
 This is a short website on the various lavish lifestyles.
