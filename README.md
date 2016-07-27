@@ -21,3 +21,16 @@ tools used
  4. Moderniser.
  
 Contributers:none
+
+
+### 2. Lifestyle
+link  
+---- 
+
+This is a short website on the various lavish lifestyles.
+
+ tools used
+  1. Foundation.
+  2. Google fonts.
+  
+Contributers:none
