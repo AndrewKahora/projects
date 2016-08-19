@@ -32,15 +32,16 @@ tools used
 Contributers:none
 
 
-### 2. Lifestyle
-link: https://andrewkahora.github.io/Lifestyle/  
+### 2. Watoto Kumi Children's Home
+link: http://andrewkahora.github.io/watoto_kumi_childrens_home/#home
 ---- 
 
-This is a short website on the various lavish lifestyles.
+This is a practice website on a Childrens Home Website.
 
  tools used
   1. Foundation.
   2. Google fonts.
+  3. JQuery
   
 Contributers:none
 
